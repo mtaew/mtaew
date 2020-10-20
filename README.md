@@ -1,3 +1,8 @@
+### Hi, I'm Tae. I am a Software Engineer graduate from Auburn University, currently working for Revature.
+### I have experience in Java Full Stack Development with Automation Testing.
+<br>
+
+## GitHub Stats & Badges
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtaew&theme=radical&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaew&theme=radical&layout=compact)](https://github.com/mtaew/github-readme-stats)
