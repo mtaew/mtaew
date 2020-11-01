@@ -2,6 +2,12 @@
 ### I have experience in Java Full Stack Development with Automation Testing.
 <br>
 
+### Connect with me on LinkedIn!
+
+<a href="https://www.linkedin.com/in/taemyles/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> 
+<a/>
+  
 ## GitHub Stats & Badges
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mtaew&theme=radical&show_icons=true)
 <br>
