@@ -1,8 +1,4 @@
-### Hi, I'm Tae. I am a Software Engineer graduate from Auburn University, currently working for Revature.
-### I have experience in Java Full Stack Development with Automation Testing.
-<br>
-
-### Connect with me on LinkedIn!
+### Hi, I'm Tae. I am a Software Engineer graduate from Auburn University, currently working for BofA as QA.
 
 <a href="https://www.linkedin.com/in/taemyles/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> 
